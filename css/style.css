@@ -164,7 +164,7 @@ footer{
 
   .intro-content{
     display: block;
-    height: 90vh;
+    height: 130vh;
   }
 
   .intro-content div{
@@ -172,7 +172,7 @@ footer{
   }
 
   .services{
-    height: 100vh;
+    height: 130vh;
     clip-path: polygon(0 0, 15% 0, 50% 5%, 85% 0, 100% 0, 100% 100%, 0 100%, 0 0);
   }
 
